@@ -1,0 +1,14 @@
+1. OOP (Object Oriented Programming) nedir?
+CAVAB: OOP (Object Oriented Programming) kodlarin forma double-click etdikden sonra yazilmayib hisselere bolunerek uygun class-lar yaradilib object-ler vasitesile cagirilmasina deyilir. Esasen, 3 peinsipi vardir:Encapsulation, Inheritance ve Polymorphism. Encapsulation - object-in ona mexsus olan melumatlarini ve emeliyyatlari bildirir. Inheritance - bir object-in dgier object-in esasinda qurulmagidir. Polymorphism - mueyyen bir metodun bir nece object terefinden istifade olunmagidir.
+
+2. Prosedural programlama nedir?
+CAVAB: Ilk yaradilan proqramlasdirma metodlarindandir. Bu metodda kod setirleri yuxaridan asagiya dogru mueyyen bir sira ile irelileyir. Kodeun esas hissesi metodlar olur. Metodlarin esas meqsedi gorulecek isin diger islerle olan bagliligini minimunumuna salmaqdir. Hal-hazirda obyekt temayullu proqramlama metodunun istifadesinin artamasina gore bu proqlama metodu daha az istifade edilir. Bezi yerlerde imperative programming ile eynimenali isledilir.
+
+3. PHP class nedir?
+CAVAB: PHP class deyisenlerden, bu deyisenlerle isleyen funsiyalardan ve object-lerden ibaret olan bir butundur. Deyisenler var acar sozu ile, funksiyalr ise function acar sozu ile teyin olunur. Class-in terkibini bir nece fayla ve bir nece PHP blokuna bolmek olmaz. Eks teqdirde, hemin class islemeyecekdir.
+
+4. PHP obyekt nedir?
+CAVAB: OOP (Object Oriented Programming)-de object-ler class-larin terkibinde yaradilir. Eyni class-in icinde olan iki object-in deyisenleri ferqli xususiyyetlere sahib olur. Yazilacaq olan kod, esasen, object-lerden ibaret olur. Bu object-ler data qebul edib yollamaqlabir biri ile elaqe yaradir.
+
+5. Konstruktor funksiya nedir?
+CAVAB: Objectler konstruktorlar vasitesi ile yaradilir. Konstruktor bir object yaratmamisdan evvel, object ucun lazim olan deyisen deyerlerini mueyyenlesdirir ve by=u deyerleri parametr olaraq konstruktora goderir. Konstruktor bu deyerlerden istifade ederek object-leri yaradir. Her class daxilinde object yaratmaq ucun konstruktor movcuddur.
